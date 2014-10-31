@@ -1,0 +1,21 @@
+﻿Сборка начата 10/30/2014 3:16:17 PM.
+     1>Проект "C:\RML\Source\StructDictLib\StructDictLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ItemsContainer.cpp Ross.cpp StdRoss.cpp TempArticle.cpp
+         TempArticle.cpp
+         StdRoss.cpp
+         Ross.cpp
+         ItemsContainer.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\StructDictLib.lib" /NOLOGO Debug\ItemsContainer.obj
+         Debug\Ross.obj
+         Debug\StdRoss.obj
+         Debug\TempArticle.obj
+     1>StdRoss.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+         StructDictLib.vcxproj -> C:\RML\Source\StructDictLib\Debug\StructDictLib.lib
+     1>Сборка проекта "C:\RML\Source\StructDictLib\StructDictLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.10

@@ -1,0 +1,44 @@
+﻿Сборка начата 10/30/2014 4:34:05 PM.
+     1>Проект "C:\RML\Source\common\common.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\iconv\include /ZI /nologo /W3 /WX- /Od /Oy- /D NO_UNISTD /D WIN32 /D USE_FSEEK32 /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AncodePattern.cpp BigramsReader.cpp cgic.cpp DwdsThesaurus.cpp gra_descr.cpp Homonym.cpp iconv_cpp.cpp LemWord.cpp MorhologyHolder.cpp MorphXmlToken.cpp PlmLine.cpp ReadQueryFromInternet.cpp rus_numerals.cpp string_socket.cpp SyntaxHolder.cpp utilit.cpp
+         utilit.cpp
+         SyntaxHolder.cpp
+         string_socket.cpp
+         rus_numerals.cpp
+         ReadQueryFromInternet.cpp
+         PlmLine.cpp
+         MorphXmlToken.cpp
+         MorhologyHolder.cpp
+         LemWord.cpp
+         iconv_cpp.cpp
+         Homonym.cpp
+         gra_descr.cpp
+         DwdsThesaurus.cpp
+         cgic.cpp
+         BigramsReader.cpp
+         AncodePattern.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\common.lib" /NOLOGO Debug\AncodePattern.obj
+         Debug\BigramsReader.obj
+         Debug\cgic.obj
+         Debug\DwdsThesaurus.obj
+         Debug\gra_descr.obj
+         Debug\Homonym.obj
+         Debug\iconv_cpp.obj
+         Debug\LemWord.obj
+         Debug\MorhologyHolder.obj
+         Debug\MorphXmlToken.obj
+         Debug\PlmLine.obj
+         Debug\ReadQueryFromInternet.obj
+         Debug\rus_numerals.obj
+         Debug\string_socket.obj
+         Debug\SyntaxHolder.obj
+         Debug\utilit.obj
+         common.vcxproj -> C:\RML\Source\common\Debug\common.lib
+     1>Сборка проекта "C:\RML\Source\common\common.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:14.00

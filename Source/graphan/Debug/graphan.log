@@ -1,0 +1,35 @@
+﻿Сборка начата 10/31/2014 12:36:02 PM.
+     1>Проект "C:\RML\Source\graphan\graphan.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdPch.h" /Fp".\Debug/graphan.pch" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComGraphmatFile.cpp graphan.cpp
+         ComGraphmatFile.cpp
+         graphan.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/graphan.dll" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib Advapi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\graphan.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/graphan.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/graphan.lib" /MACHINE:X86 /SAFESEH /MACHINE:I386 /DLL Debug\graphan.res
+         .\Debug/ComGraphmatFile.obj
+         .\Debug/graphan.obj
+         .\Debug/RMLLicense.obj
+         .\Debug/StdPch.obj
+         .\Debug/utilit.obj
+         C:\RML\Source\GraphanLib\Debug\GraphanLib.lib
+         C:\RML\Source\StructDictLib\Debug\StructDictLib.lib
+     1>GraphanLib.lib(UnitHolder.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+            Создается библиотека .\Debug/graphan.lib и объект .\Debug/graphan.exp
+         graphan.vcxproj -> C:\RML\Source\graphan\Debug\graphan.dll
+       CustomBuildStep:
+         regsvr32 /s /c "C:\RML\Source\graphan\Debug\graphan.dll"
+         echo regsvr32 exec. time > "Debug\regsvr32.trg"
+         copy "C:\RML\Source\graphan\Debug\graphan.dll" ..\Bin
+         
+         :VCEnd
+         Скопировано файлов:         1.
+       PostBuildEvent:
+         copy  graphan.tlb  ..\..\bin
+         :VCEnd
+         Скопировано файлов:         1.
+     1>Сборка проекта "C:\RML\Source\graphan\graphan.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.25

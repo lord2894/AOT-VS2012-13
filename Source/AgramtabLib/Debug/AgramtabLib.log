@@ -1,0 +1,22 @@
+﻿Сборка начата 10/31/2014 12:20:53 PM.
+     1>Проект "C:\RML\Source\AgramtabLib\AgramtabLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt agramtab_.cpp EngGramTab.cpp GerGramTab.cpp RusGramTab.cpp StdGramtab.cpp
+         StdGramtab.cpp
+         RusGramTab.cpp
+         GerGramTab.cpp
+         EngGramTab.cpp
+         agramtab_.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\AgramtabLib.lib" /NOLOGO Debug\agramtab_.obj
+         Debug\EngGramTab.obj
+         Debug\GerGramTab.obj
+         Debug\RusGramTab.obj
+         Debug\StdGramtab.obj
+         AgramtabLib.vcxproj -> C:\RML\Source\AgramtabLib\Debug\AgramtabLib.lib
+     1>Сборка проекта "C:\RML\Source\AgramtabLib\AgramtabLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.13

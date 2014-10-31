@@ -1,0 +1,57 @@
+﻿Сборка начата 9/24/2014 6:15:39 PM.
+     1>Проект "C:\RML\Source\SimpleGrammarLib\SimpleGrammarLib.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>CustomBuild:
+         Performing Custom Build Tools
+         Performing Custom Build Tools
+         chunker.y: ъюэЇышъЄ√: 8 ёфтшур/т√тюфр
+         Скопировано файлов:         1.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"SimpleGrammarLib.h" /Fp"Debug\SimpleGrammarLib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SimpleGrammarLib.cpp
+         SimpleGrammarLib.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chunk_yacc.cpp chunker_lex.cpp
+         chunker_lex.cpp
+     1>c:\rml\source\simplegrammarlib\chunker.tmp(1407): warning C4273: isatty: несовместимая компоновка dll
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(332): см. предыдущее определение "isatty"
+         chunk_yacc.cpp
+     1>c:\rml\source\simplegrammarlib\chunk_yacc(728): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+     1>c:\rml\source\simplegrammarlib\chunk_yacc(1094): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"SimpleGrammarLib.h" /Fp"Debug\SimpleGrammarLib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChunkNode.cpp ChunkParser.cpp AhoKorasick.cpp FirstAndFollow.cpp GetMaxCoverage.cpp GLR.cpp GLRTable.cpp GrammarItem.cpp Loader.cpp "LR-items.cpp" Parser.cpp SolvePeriodAmbiguity.cpp SourceGrammarParser.cpp
+         SourceGrammarParser.cpp
+         SolvePeriodAmbiguity.cpp
+         Parser.cpp
+         LR-items.cpp
+         Loader.cpp
+         GrammarItem.cpp
+     1>c:\rml\source\simplegrammarlib\grammaritem.cpp(412): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+         GLRTable.cpp
+         GLR.cpp
+         GetMaxCoverage.cpp
+         FirstAndFollow.cpp
+         AhoKorasick.cpp
+         ChunkParser.cpp
+         ChunkNode.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\SimpleGrammarLib.lib" /NOLOGO Debug\chunk_yacc.obj
+         Debug\chunker_lex.obj
+         Debug\ChunkNode.obj
+         Debug\ChunkParser.obj
+         Debug\AhoKorasick.obj
+         Debug\FirstAndFollow.obj
+         Debug\GetMaxCoverage.obj
+         Debug\GLR.obj
+         Debug\GLRTable.obj
+         Debug\GrammarItem.obj
+         Debug\Loader.obj
+         "Debug\LR-items.obj"
+         Debug\Parser.obj
+         Debug\SimpleGrammarLib.obj
+         Debug\SolvePeriodAmbiguity.obj
+         Debug\SourceGrammarParser.obj
+         SimpleGrammarLib.vcxproj -> C:\RML\Source\SimpleGrammarLib\Debug\SimpleGrammarLib.lib
+     1>Сборка проекта "C:\RML\Source\SimpleGrammarLib\SimpleGrammarLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:27.10

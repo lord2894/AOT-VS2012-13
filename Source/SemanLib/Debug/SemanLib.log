@@ -1,0 +1,89 @@
+﻿Сборка начата 10/31/2014 1:55:31 PM.
+     1>Проект "C:\RML\Source\SemanLib\SemanLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\SemanLib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /Zc:forScope stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SemanLib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /Zc:forScope AllRossesHolder.cpp DictUnitInterp.cpp GenerateNewForm.cpp HierarchyHolder.cpp RossHolder.cpp RussianSynthesis.cpp SemanHypotGraph.cpp SemanPattern.cpp SemanticAnswer.cpp SemanticClause.cpp SemanticColloc.cpp SemanticCommon.cpp SemanticCompar.cpp SemanticGraph.cpp SemanticIdealize.cpp SemanticLength.cpp SemanticLexFuncts.cpp SemanticLexVariant.cpp SemanticLoc.cpp SemanticMNA.cpp SemanticNumeral.cpp SemanticRusPrimitives.cpp SemanticsHolder.cpp SemanticStrAn.cpp SemanticSynRelation.cpp SemanticThesaurus.cpp SemanticTime.cpp SemanticTree.cpp SemanticWeight.cpp SemPattern.cpp SemStructureBuilder.cpp TransferSyntaxRelationToSemantics.cpp TranslatorHolder.cpp Valency.cpp
+         Valency.cpp
+         TranslatorHolder.cpp
+         TransferSyntaxRelationToSemantics.cpp
+         SemStructureBuilder.cpp
+         SemPattern.cpp
+         SemanticWeight.cpp
+         SemanticTree.cpp
+         SemanticTime.cpp
+         SemanticThesaurus.cpp
+         SemanticSynRelation.cpp
+         SemanticStrAn.cpp
+         SemanticsHolder.cpp
+         SemanticRusPrimitives.cpp
+         SemanticNumeral.cpp
+         SemanticMNA.cpp
+         SemanticLoc.cpp
+         SemanticLexVariant.cpp
+         SemanticLexFuncts.cpp
+         SemanticLength.cpp
+         SemanticIdealize.cpp
+         Создание кода...
+         Компиляция...
+         SemanticGraph.cpp
+         SemanticCompar.cpp
+         SemanticCommon.cpp
+         SemanticColloc.cpp
+         SemanticClause.cpp
+     1>c:\rml\source\semanlib\semanticclause.cpp(1958): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+         SemanticAnswer.cpp
+         SemanPattern.cpp
+         SemanHypotGraph.cpp
+         RussianSynthesis.cpp
+         RossHolder.cpp
+         HierarchyHolder.cpp
+         GenerateNewForm.cpp
+         DictUnitInterp.cpp
+         AllRossesHolder.cpp
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /Zc:forScope ..\common\SyntaxHolder.cpp
+         SyntaxHolder.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\SemanLib.lib" /NOLOGO Debug\AllRossesHolder.obj
+         Debug\DictUnitInterp.obj
+         Debug\GenerateNewForm.obj
+         Debug\HierarchyHolder.obj
+         Debug\RossHolder.obj
+         Debug\RussianSynthesis.obj
+         Debug\SemanHypotGraph.obj
+         Debug\SemanPattern.obj
+         Debug\SemanticAnswer.obj
+         Debug\SemanticClause.obj
+         Debug\SemanticColloc.obj
+         Debug\SemanticCommon.obj
+         Debug\SemanticCompar.obj
+         Debug\SemanticGraph.obj
+         Debug\SemanticIdealize.obj
+         Debug\SemanticLength.obj
+         Debug\SemanticLexFuncts.obj
+         Debug\SemanticLexVariant.obj
+         Debug\SemanticLoc.obj
+         Debug\SemanticMNA.obj
+         Debug\SemanticNumeral.obj
+         Debug\SemanticRusPrimitives.obj
+         Debug\SemanticsHolder.obj
+         Debug\SemanticStrAn.obj
+         Debug\SemanticSynRelation.obj
+         Debug\SemanticThesaurus.obj
+         Debug\SemanticTime.obj
+         Debug\SemanticTree.obj
+         Debug\SemanticWeight.obj
+         Debug\SemPattern.obj
+         Debug\SemStructureBuilder.obj
+         Debug\stdafx.obj
+         Debug\SyntaxHolder.obj
+         Debug\TransferSyntaxRelationToSemantics.obj
+         Debug\TranslatorHolder.obj
+         Debug\Valency.obj
+         SemanLib.vcxproj -> C:\RML\Source\SemanLib\Debug\SemanLib.lib
+     1>Сборка проекта "C:\RML\Source\SemanLib\SemanLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:01:18.47

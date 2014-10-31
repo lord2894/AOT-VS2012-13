@@ -1,0 +1,41 @@
+﻿Сборка начата 10/31/2014 12:59:29 PM.
+     1>Проект "C:\RML\Source\TestSeman\TestSeman.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\EngSynanLib\EngSynanLib.vcxproj' does not exist.
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\GerPostMorph\GerPostMorph.vcxproj' does not exist.
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\GerSynanLib\GerSynanLib.vcxproj' does not exist.
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\PCRE\libs-pcre.vcxproj' does not exist.
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\SynanDmnLib\SynanDmnLib.vcxproj' does not exist.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestSeman.cpp
+         TestSeman.cpp
+     1>Проект "C:\RML\Source\TestSeman\TestSeman.vcxproj" (1) выполняет сборку "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" (6:3) в узле 1 (целевые объекты GetResolvedLinkLibs).
+   6:3>Проект "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" (6:3) выполняет сборку "C:\RML\Source\PCRE\PCRE.vcxproj" (16:3) в узле 4 (целевые объекты GetResolvedLinkLibs).
+    16>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (libs-pcre.dir\Debug\) contains files shared from another project (libs-pcre.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+    16>Сборка проекта "C:\RML\Source\PCRE\PCRE.vcxproj" завершена (целевые объекты GetResolvedLinkLibs).
+     6>Сборка проекта "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" завершена (целевые объекты GetResolvedLinkLibs).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\TestSeman.exe" /INCREMENTAL /NOLOGO Advapi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\TestSeman.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Debug\TestSeman.lib" /MACHINE:X86 /SAFESEH Debug\TestSeman.obj
+         C:\RML\Source\AgramtabLib\Debug\AgramtabLib.lib
+         C:\RML\Source\BinaryDictsLib\Debug\BinaryDictsLib.lib
+         C:\RML\Source\GraphanLib\Debug\GraphanLib.lib
+         C:\RML\Source\LemmatizerLib\Debug\LemmatizerLib.lib
+         C:\RML\Source\MAPostLib\Debug\MAPostLib.lib
+         "C:\trunk\build\bin\Debug\libs-pcre.lib"
+         C:\RML\Source\MorphWizardLib\Debug\MorphWizardLib.lib
+         C:\RML\Source\RmlThesLib\Debug\RmlThesLib.lib
+         C:\RML\Source\SemanLib\Debug\SemanLib.lib
+         C:\RML\Source\SimpleGrammarLib\Debug\SimpleGrammarLib.lib
+         C:\RML\Source\StructDictLib\Debug\StructDictLib.lib
+         C:\RML\Source\SynanLib\Debug\SynanLib.lib
+         C:\RML\Source\SynCommonLib\Debug\SynCommonLib.lib
+         C:\RML\Source\Transfer\Debug\Transfer.lib
+         C:\RML\Source\TrigramLib\Debug\TrigramLib.lib
+     1>TestSeman.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+            Создается библиотека Debug\TestSeman.lib и объект Debug\TestSeman.exp
+     1>TestSeman.obj : error LNK2001: неразрешенный внешний символ ""struct _iobuf * log_fp" (?log_fp@@3PAU_iobuf@@A)"
+     1>Debug\TestSeman.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+     1>Сборка проекта "C:\RML\Source\TestSeman\TestSeman.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:05.02

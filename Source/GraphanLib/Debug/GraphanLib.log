@@ -1,0 +1,41 @@
+﻿Сборка начата 10/31/2014 12:32:34 PM.
+     1>Проект "C:\RML\Source\GraphanLib\GraphanLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt abbrev.cpp C_desc.cpp Consent.cpp Cs_hiera.cpp graline.cpp GraphanDicts.cpp GraphmatFile.cpp HtmlConv.cpp Nc_desc.cpp Oborots.cpp Sentences.cpp StdAfx.cpp UnitHolder.cpp Writegra.cpp
+         Writegra.cpp
+         UnitHolder.cpp
+         StdAfx.cpp
+         Sentences.cpp
+         Oborots.cpp
+         Nc_desc.cpp
+         HtmlConv.cpp
+         GraphmatFile.cpp
+         GraphanDicts.cpp
+         graline.cpp
+         Cs_hiera.cpp
+         Consent.cpp
+         C_desc.cpp
+         abbrev.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Debug\GraphanLib.lib" /NOLOGO Debug\abbrev.obj
+         Debug\C_desc.obj
+         Debug\Consent.obj
+         Debug\Cs_hiera.obj
+         Debug\graline.obj
+         Debug\GraphanDicts.obj
+         Debug\GraphmatFile.obj
+         Debug\HtmlConv.obj
+         Debug\Nc_desc.obj
+         Debug\Oborots.obj
+         Debug\Sentences.obj
+         Debug\StdAfx.obj
+         Debug\UnitHolder.obj
+         Debug\Writegra.obj
+     1>StdAfx.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+         GraphanLib.vcxproj -> C:\RML\Source\GraphanLib\Debug\GraphanLib.lib
+     1>Сборка проекта "C:\RML\Source\GraphanLib\GraphanLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:13.00

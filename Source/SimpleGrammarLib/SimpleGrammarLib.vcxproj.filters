@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="FlexBison">
+      <UniqueIdentifier>{cd855bf8-0339-4e8d-9862-aa34c697a642}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="chunk_yacc.cpp">
+      <Filter>FlexBison</Filter>
+    </ClCompile>
+    <ClCompile Include="chunker_lex.cpp">
+      <Filter>FlexBison</Filter>
+    </ClCompile>
+    <ClCompile Include="ChunkNode.cpp">
+      <Filter>FlexBison</Filter>
+    </ClCompile>
+    <ClCompile Include="ChunkParser.cpp">
+      <Filter>FlexBison</Filter>
+    </ClCompile>
+    <ClCompile Include="AhoKorasick.cpp" />
+    <ClCompile Include="FirstAndFollow.cpp" />
+    <ClCompile Include="GetMaxCoverage.cpp" />
+    <ClCompile Include="GLR.cpp" />
+    <ClCompile Include="GLRTable.cpp" />
+    <ClCompile Include="GrammarItem.cpp" />
+    <ClCompile Include="Loader.cpp" />
+    <ClCompile Include="LR-items.cpp" />
+    <ClCompile Include="Parser.cpp" />
+    <ClCompile Include="SimpleGrammarLib.cpp" />
+    <ClCompile Include="SolvePeriodAmbiguity.cpp" />
+    <ClCompile Include="SourceGrammarParser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chunk_yacc.h">
+      <Filter>FlexBison</Filter>
+    </ClInclude>
+    <ClInclude Include="ChunkNode.h">
+      <Filter>FlexBison</Filter>
+    </ClInclude>
+    <ClInclude Include="ChunkParser.h">
+      <Filter>FlexBison</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFlexLexer.h">
+      <Filter>FlexBison</Filter>
+    </ClInclude>
+    <ClInclude Include="AhoKorasick.h" />
+    <ClInclude Include="GLR.h" />
+    <ClInclude Include="GLRTable.h" />
+    <ClInclude Include="GrammarItem.h" />
+    <ClInclude Include="InputSymbol.h" />
+    <ClInclude Include="LR-items.h" />
+    <ClInclude Include="..\common\PlmLine.h" />
+    <ClInclude Include="SimpleGrammar.h" />
+    <ClInclude Include="SimpleGrammarLib.h" />
+    <ClInclude Include="..\common\utilit.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="chunker.l">
+      <Filter>FlexBison</Filter>
+    </CustomBuild>
+    <CustomBuild Include="chunker.y">
+      <Filter>FlexBison</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

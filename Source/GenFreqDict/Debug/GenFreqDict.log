@@ -1,0 +1,26 @@
+﻿Сборка начата 10/31/2014 6:54:03 PM.
+     1>Проект "C:\RML\Source\GenFreqDict\GenFreqDict.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\PCRE\libs-pcre.vcxproj' does not exist.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>Проект "C:\RML\Source\GenFreqDict\GenFreqDict.vcxproj" (1) выполняет сборку "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" (6:3) в узле 4 (целевые объекты GetResolvedLinkLibs).
+   6:3>Проект "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" (6:3) выполняет сборку "C:\RML\Source\PCRE\PCRE.vcxproj" (8:3) в узле 1 (целевые объекты GetResolvedLinkLibs).
+     8>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (libs-pcre.dir\Debug\) contains files shared from another project (libs-pcre.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     8>Сборка проекта "C:\RML\Source\PCRE\PCRE.vcxproj" завершена (целевые объекты GetResolvedLinkLibs).
+     6>Сборка проекта "C:\RML\Source\MorphWizardLib\MorphWizardLib.vcxproj" завершена (целевые объекты GetResolvedLinkLibs).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/GenFreqDict.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/GenFreqDict.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\GenFreqDict.lib" /MACHINE:X86 /SAFESEH /MACHINE:I386 .\Debug/main.obj
+         C:\RML\Source\AgramtabLib\Debug\AgramtabLib.lib
+         C:\RML\Source\BinaryDictsLib\Debug\BinaryDictsLib.lib
+         C:\RML\Source\GraphanLib\Debug\GraphanLib.lib
+         C:\RML\Source\LemmatizerLib\Debug\LemmatizerLib.lib
+         "C:\trunk\build\bin\Debug\libs-pcre.lib"
+         C:\RML\Source\MorphWizardLib\Debug\MorphWizardLib.lib
+         C:\RML\Source\StructDictLib\Debug\StructDictLib.lib
+         GenFreqDict.vcxproj -> C:\RML\Source\GenFreqDict\.\Debug\GenFreqDict.exe
+     1>Сборка проекта "C:\RML\Source\GenFreqDict\GenFreqDict.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.85

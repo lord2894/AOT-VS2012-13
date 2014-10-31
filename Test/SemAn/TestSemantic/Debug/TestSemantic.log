@@ -1,0 +1,11 @@
+﻿Сборка начата 10/31/2014 8:10:44 PM.
+     1>Проект "C:\RML\Test\SemAn\TestSemantic\TestSemantic.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestSeman.cpp
+         TestSeman.cpp
+     1>c:\rml\test\seman\testsemantic\testseman.cpp(17): fatal error C1083: Не удается открыть файл включение: ../../../SemanLib/SemStructureBuilder.h: No such file or directory
+     1>Сборка проекта "C:\RML\Test\SemAn\TestSemantic\TestSemantic.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.59

@@ -1,0 +1,182 @@
+Когда в 1993 году российские законодатели забаррикадировались в здании парламента , некоторые предприимчивые москвичи и пара американцев создала " канал новостей " на IRC , чтобы связываться с главными лицами непосредственно из Москвы .
+In 1993 , when Russian lawmakers barricaded themselves inside the parliament building , some enterprising Muscovites and a couple of Americans set up a " news channel " on IRC to relay first - person accounts direct from Moscow .
+IRC стала новым средством для того , чтобы оставаться на уровне главных и срочных событий .
+IRC has become a new medium for staying on top of really big breaking news .
+Канал был-создан для обеспечения непрерывного цикла информации , подобно тому , как радиостанции повторяют хронику каждые двадцать минут .
+The channel was set up to provide a continuous loop of information , much like all - news radio stations that cycle through the day's news every 20 minutes .
+В обоих случаях все это было-заархивировано где-то в Сети для тех , кто не смог " настроиться " на этот канал в реальном времени .
+In both cases , logs of the channels were archived somewhere on the Net , for those unable to " tune in " live .
+В 1994 году аналогичный канал создали жители Лос Анжелеса для пересылки информации о землетрясении в Норбридже .
+In 1994 , Los Angeles residents set up a similar channel to relay information related to the Northridge earthquake .
+11 . 4 IRC во время кризиса
+12 . 4 IRC IN TIMES OF CRISIS
+Просмотрите доступные каналы командой / list .
+Use the / list command to scroll through the available channels .
+Как найти такие каналы в будущем ?
+How would you find such channels in the future ?
+Если был-определен какой-то канал для обсуждения выдающихся событий , то есть шансы , что краткое пояснение рядом с его именем даст вам понять , что на него стоит настроиться .
+If one has been set up to discuss a particular breaking event , chances are you'll see a brief description next to the channel name that will tell you that's the place to tune .
+В 1960-х годах исследователи начали эксперименты по соединению компьютеров друг с другом и с людьми с помощью телефонных линий , используя фонды Агентства Перспективных Проектов Исследований Министерства Обороны США ( U .
+In the 1960s , researchers began experimenting with linking computers to each other and to people through telephone hook - ups , using funds from the U .
+1 . 5 Происхождение сети
+1 . 7 NET ORIGINS
+S Defense Department's Advanced Research Projects Agency - ARPA ) .
+S Defense Department's Advanced Research Projects Agency ( ARPA ) .
+Эта технология , в которой данные , предназначенные для переброски в другое место , разбиваясь на пакеты , каждый из которых имел свой " адрес назначения " ( " forwarding address " ) , обещала возможность нескольким пользователям работать по одной и той же линии связи одновременно .
+This technology , in which data meant for another location is broken up into little pieces , each with its own " forwarding address " had the promise of letting several users share just one communications line .
+ARPA интересовалась вопросом о том , можно ли связывать расположенные в разных местах компьютеры с помощью новой технологии , которая называлась " коммутация пакетов " ( packet switching ) .
+ARPA wanted to see if computers in different locations could be linked using a new technology known as packet switching .
+Столь же важным с точки зрения ARPA было то , что такая технология позволяла создавать сети , дающие возможность автоматической маршрутизации данных по включенным в нее цепям и компьютерам .
+Just as important , from ARPA's viewpoint , was that this allowed for creation of networks that could automatically route data around downed circuits or computers .
+Целью ARPA было не создание современного международного компьютерного сообщества , а развитие сети передачи данных , которая могла бы выдержать ядерное нападение .
+ARPA's goal was not the creation of today's international computer - using community , but development of a data network that could survive a nuclear attack .
+Предыдущие попытки объединения компьютеров в сеть требовали наличия линии между двумя компьютерами сети , нечто вроде железнодорожной одноколейки .
+Previous computer networking efforts had required a line between each computer on the network , sort of like a one - track train route .
+Пакетная система позволила создавать " шоссейные магистрали " для данных , по которым много машин движутся фактически в одном и том же ряду .
+The packet system allowed for creation of a data highway , in which large numbers of vehicles could essentially share the same lane .
+Каждому пакету выдается компьютерный эквивалент карты и расписания , так что его можно направить в желательное место назначения , где все такие пакеты снова соберут в сообщение , пригодное для использования человеком или компьютером .
+Each packet was given the computer equivalent of a map and a time stamp , so that it could be sent to the right destination , where it would then be reassembled into a message the computer or a human could use .
+Эта система позволила компьютерам использовать разделяемые данные , а исследователям - использовать электронную почту .
+This system allowed computers to share data and the researchers to exchange electronic mail , or e - mail .
+По мере того , как эта система , названная ARPANet , росла , несколько предприимчивых студентов колледжа ( и один старшеклассник ) разработали способ ее использования для проведения электронных конференций .
+As this system , known as ARPANet , grew , some enterprising college students ( and one in high school ) developed a way to use it to conduct online conferences .
+Сама по себе электронная почта уже была революцией , поскольку оказалось , что подробные письма можно пересылать со скоростью телефонного звонка .
+In itself , e - mail was something of a revolution , offering the ability to send detailed letters at the speed of a phone call .
+Они начались как научные дискуссии , но скоро от них отпочковались конференции практически по всем аспектам жизни , как только люди осознали возможность " разговаривать " с сотнями и даже тысячами людей по всей стране .
+These started as science - oriented discussions , but they soon branched out into virtually every other field , as people recognized the power of being able to " talk " to hundreds , or even thousands , of people around the country .
+Эти протоколы с общим именем " Internet " сделали возможным разработку всемирной Сети , которую мы сейчас имеем и которая соединяет компьютеры всех видов через национальные границы .
+These " internet " ( from " internetworking " ) protocols made it possible to develop the worldwide Net we have today that links all sorts of computers across national boundaries .
+В семидесятых годах при поддержке ARPA были-разработаны правила , или протоколы , пересылки данных между различными компьютерными сетями .
+In the 1970s , ARPA helped support the development of rules , or protocols , for transferring data between different types of computer networks .
+К концу семидесятых были-разработаны связи между ARPANet и ее контрагентами в других странах .
+By the close of the 1970s , links developed between ARPANet and counterparts in other countries .
+Мир оказался связан в одно целое паутиной компьютерных сетей .
+The world was now tied together in a computer web .
+Но даже раньше , чем Сеть оказалась в состоянии достичь подобной скорости , эксперты по Сети стали выискивать способы перекачки данных со скоростью порядка 2 миллиардов бит в секунду - это достаточно , чтобы перегнать через всю страну Британскую Энциклопедию за одну или две секунды .
+Even before the Net was able to reach that latter speed , however , Net experts were already figuring out ways to pump data at speeds of up to 2 billion bits per second -- fast enough to send the entire Encyclopedia Britannica across the country in just one or two seconds .
+Это оказалось слишком медленно для все возрастающего объема пересылаемых данных , и в последнее время максимальная скорость возросла до 1 . 5 миллиона , а затем - до 45 миллионов бит в секунду .
+That proved too slow for the ever increasing amounts of data being sent over it , and in recent years the maximum speed was increased to 1 . 5 million and then 45 million bits per second .
+Некоторые предприимчивые любители и компании , не желающие платить высокие цены за доступ к Internet ( или не имеющие возможности соответствовать жестким правительственным требованиям для получения такого доступа ) , научились присоединять свои системы к Internet даже только ради электронной почты и конференций .
+Some enterprising hobbyists and companies unwilling to pay the high costs of Internet access ( or unable to meet stringent government regulations for access ) learned how to link their own systems to the Internet , even if " only " for e - mail and conferences .
+Другое серьезное новшество - разработка коммерческих служб , которые предоставляют услуги по межсетевому обмену , сравнимые по скорости с соответствующими услугами правительственной системы .
+Another major change has been the development of commercial services that provide internetworking services at speeds comparable to those of the government system .
+Сотни , а потом и тысячи колледжей , исследовательских организаций и правительственных ведомств стали присоединять свои компьютеры к этой всемирной Сети .
+Hundreds , then thousands , of colleges , research companies and government agencies began to connect their computers to this worldwide Net .
+В ответ на это правительство и другие пользователи пытаются в последние годы расширить саму Сеть .
+In response , government and other users have tried in recent years to expand the Net itself .
+По некоторым оценкам , объем пересылаемых сообщений растет на 20 процентов в месяц .
+Some estimates are that the volume of messages transferred through the Net grows 20 percent a month .
+В восьмидесятых годах эта сеть сетей , которая стала известна под именем Internet , развилась до невероятной степени .
+In the 1980s , this network of networks , which became known collectively as the Internet , expanded at a phenomenal rate .
+Когда-то основной " хребет " Сети в Соединенных Штатах передавал данные со скоростью 56000 бит в секунду .
+Once , the main Net " backbone " in the U . S . moved data at 56 , 000 bits per second .
+Теперь любой владелец компьютера и модема - и некоторой толики настойчивости может открыть себе окно в этот мир .
+Now anybody with a computer and modem , persistance and a small amount of money -- and persistence -- could tap into the world .
+Некоторые из этих систем стали предлагать доступ к Internet для всех .
+Some of these systems began offering access to the public .
+Фактически в середине 1994 года правительство Соединенных Штатов самоустранится от ежедневного управления работой Сети , и местные и национальные организаторы услуг сети будут ее расширять .
+In fact , what started as a government experiment is now largely a private enterprise .
+В девяностых годах сеть продолжает разрастаться экспоненциально .
+In the 1990s , the Net continues to grow at exponential rates .
+В Соединенных Штатах основной " хребет " Internet теоретически может передавать данные со скоростью 45 миллионов бит в секунду ( сравните со средним домашним модемом , у которого предельная скорость около 9600 или 14400 бит в секунду ) .
+In the U . S . , the major Internet " backbones " theoretically can move data at rates of 45 million bits per second ( compare this to the average home modem , which has a top speed of roughly 9 , 600 to 14 , 400 bits per second ) .
+В отличие от коммерческих сетей , таких , как CompuServe или Prodigy , в Internet не существует одного центрального компьютера , управляющего работой сети - его ресурсы распределены между тысячами отдельных компьютеров .
+Unlike with commercial networks such as CompuServe or Prodigy , there is no one central computer or computers running the Internet -- its resources are to be found among thousands of individual computers .
+Но тысячи соединенных вместе компьютеров затрудняют передвижение по Сети и поиск того , что вам в ней нужно - особенно потому , что у разных компьютеров разные команды для доступа к ресурсам .
+However , thousands of connected computers can also make it difficult to navigate the Net and find what you want -- especially as different computers may have different commands for plumbing their resources .
+К компьютерам " хребта " подсоединены меньшие сети , обслуживающие конкретные географические регионы , которые , как правило , пересылают данные со скоростью 1 , 5 миллиона бит в секунду .
+Connected to the backbone computers are smaller networks serving particular geographic regions , which generally move data at speeds around 1 . 5 million bits per second .
+По некоторым оценкам , это около 5000 сетей , объединяющих два миллиона компьютеров и более чем 15 миллионов человек во всем мире .
+Some estimates say there are now as many as 12 , 000 networks connecting nearly 4 million computers and more than 20 million people around the world .
+Только недавно пользователи Сети начали разрабатывать средства навигации и " карты " , позволяющие новичкам передвигаться по Сети без риска заблудиться .
+It is only recently that Net users have begun to develop the sorts of navigational tools and " maps " that will let neophytes get around without getting lost .
+От этих больших городов отходят дороги поменьше , связывающие между собой маленькие города , жители которых путешествуют по узким , медленным проселкам .
+From these large cities come smaller freeways and parkways to link together small towns , whose residents travel on slower , narrow residential ways .
+Такой подход означает виртуальную невозможность единовременной катастрофы всей Сети - даже если один компьютер выйдет из строя , остальная часть Сети останется сохранной .
+The approach means it is virtually impossible for the entire Net to crash at once -- even if one computer shuts down , the rest of the network stays up .
+Скорость могла бы быть чуть побольше , чтобы сообщение обходило мир за несколько секунд , но это все равно не слишком отличается от большой и интересной вечеринки .
+The pace may be a little quicker when the messages race around the world in a few seconds , but it's not much different from a large and interesting party .
+Основные содержатели сетей продолжают работать над способами облегчения пользователю Сети процесса общения с пользователями другой сети .
+major network providers continue to work on ways to make it easier for users of one network to communicate with those of another .
+Фактически всемирная Сеть является сложной паутиной меньших локальных сетей .
+The worldwide Net is actually a complex web of smaller regional networks .
+Ведется работа по созданию системы " телефонного справочника лиц " , в котором можно будет , например , найти чей-то адрес электронной почты .
+Work is underway on a system for providing a universal " white pages " in which you could look up somebody's electronic - mail address , for example .
+Никто не знает точно , сколько компьютеров и сетей фактически составляют Сеть .
+Nobody really knows how many computers and networks actually make up this Net .
+Чтобы представить себе это , нарисуйте современную дорожную сеть трансконтинентальных суперскоростных дорог между большими городами .
+To understand it , picture a modern road network of trans - continental superhighways connecting large cities .
+Вы найдете новых друзей и встретите людей , с которыми не захотите иметь никакого дела .
+You'll make new friends and meet people you wish would just go away .
+Такая конструкция также уменьшает стоимость доступа к сети для организаций и отдельных лиц .
+The design also reduces the costs for an individual or organization to get onto the network .
+Это - человеческое общение на самом его фундаментальном уровне .
+It is human communication at its most fundamental level .
+Вы прочтете какие-то глупости и какие-то умные мысли , которые заставят вас задуматься .
+You'll read silly little snippets and new ideas that WILL make you think .
+К нему присоединены компьютеры , использующие конкретные системы для пересылки данных с высокой скоростью .
+Connected to this are computers that use a particular system of transferring data at high speeds .
+Сеть - это более , чем просто чудо технологии .
+The Net is more than just a technological marvel .
+К ним присоединяются сети еще поменьше или даже индивидуальные компьютеры .
+Feeding off these in turn are even smaller networks or individual computers .
+1 . 6 Как работает сеть
+1 . 8 HOW IT WORKS
+В этом гиперпространстве вы можете увидеть что-то , что вас рассмешит , что-то , что вас рассердит .
+You'll see things in cyberspace that will make you laugh ; you'll see things that will anger you .
+В этом его величайшая сила и его величайшая слабость .
+This is both its greatest strength and its greatest weakness .
+Какова бы ни была истинная цифра , но явно , что сейчас она только растет .
+Whatever the actual numbers , however , it is clear they are only increasing .
+Этими суперскоростными дорогами для Сети является высокоскоростной Internet .
+The Net superhighway is the high - speed Internet .
+А сегодня еще теснее становятся связи между Internet и такими коммерческими сетями , как CompuServe и Prodigy , пользователи которых теперь могут обмениваться электронной почтой со своими друзьями из Internet .
+Today , the links grow ever closer between the Internet and such commercial networks as CompuServe and Prodigy , whose users can now exchange electronic mail with their Internet friends .
+Этот дрейф в сторону интеграции сетей будет , похоже , ускорен в ближайшие годы , поскольку пользователи хотят иметь " бесшовный " доступ к сетям - подобно тому , как пользователь телефона просто набирает номер , и ему нет дела до того , как организуют соединение телефонные компании .
+This connectivity trend will likely speed up in coming years as users begin to demand seamless network access , much as telephone users can now dial almost anywhere in the world without worrying about how many phone companies actually have to connect their calls .
+И по мере того , как с ней становится легче работать , все больше людей вступают в ту всемирную общину , что мы зовем Сетью .
+And as it becomes easier to use , more and more people will join this worldwide community we call the Net .
+Некоторые держатели коммерческих сетей , таких , как Delphi и America Online , работают над тем , чтобы дать своим абонентам прямой выход на услуги Internet .
+All of the major commercial networks , such as CompuServe and America Online are gradually bringing internet access to their users ( one network , Delphi , already offers complete access ) .
+Быть соединенным с сетью - это значит больше , чем просто читать конференции и регистрировать у себя на компьютере сообщения ; это значит также задавать вопросы и отвечать на них , обмениваться мнениями - короче , участвовать .
+Being connected to the Net takes more than just reading conferences and logging messages to your computer ; it takes asking and answering questions , exchanging opinions -- getting involved .
+Если вы впервые читаете эти слова то это может показаться интересным , но неправдоподобным - как можно " обитать " в каком-то месте , не занимающем физического пространства .
+If you're reading these words for the first time , this may seem like an amusing but unlikely notion -- that one could " inhabit " a place without physical space .
+Оставьте записку тому , кто работает на том компьютере , с которым вы соединялись , и попросите совета .
+Leave a note for the person who runs the computer to which you've connected to ask for advice .
+Вы можете повредить Сеть не в большей степени , чем телефонную сеть .
+You can no more break the Net than you can the phone system .
+Если становится все хуже и хуже , можно просто выключить свой компьютер .
+If worse comes to worse , you can turn off your computer .
+Вам может показаться , что вы сломали какой-то отдаленный компьютер стоимостью в миллион долларов - или даже ваш собственный персональный компьютер .
+You may think you've just disabled a milliondollar computer somewhere -- or even your own personal computer .
+Рано или поздно такое чувство появляется у каждого - и скорее всего , не раз .
+Sooner or later , this feeling happens to everyone -- and likely more than once .
+Если вы решите пойти по этому пути , брать и давать , вы станете гражданином этого Гиперкосмоса .
+If you chose to go forward , to use and contribute , you will become a citizen of Cyberspace .
+Но Сеть и ваш компьютер прочнее , чем вы думаете , так что успокойтесь .
+But the Net and your computer are hardier than you think , so relax .
+Когда вы путешествуете по Сети , ваш компьютер может зависнуть , экран может покрыться жуткой абракадаброй .
+As you travel the Net , your computer may freeze , your screen may erupt into a mass of gibberish .
+И это приводит нас к еще одной фундаментальной истине , которую надо помнить :
+And that leads to another fundamental thing to remember :
+Если что-то неправильно , просто попробуйте снова .
+If something goes wrong , try again .
+Войдите в Сеть и начните в ней активно участвовать этак год .
+Join the Net and actively participate for a year .
+Но поставьте галочку на полях возле этих слов .
+But put a mark beside these words .
+И позвоните снова .
+And dial right back in .
+Эта будет самая естественная в мире вещь .
+It will seem like the most natural thing in the world .
+Ничего странного в словах " гражданин Гиперкосмоса " вы уже не увидите .
+It will no longer seem so strange to be a " citizen of Cyberspace . "
+Это обогатит Сеть - и вас тоже .
+The Net will be richer for it -- and so will you .
+Оставайтесь и вносите свой вклад .
+Stay and contribute .
+Настойчивость вознаграждается .
+Persistence pays .
+Попробуйте еще раз .
+Try it again .

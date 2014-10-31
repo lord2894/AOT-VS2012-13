@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryDictsClient", "BinaryDictsClient.vcxproj", "{31C0E39F-BEDC-4D7B-A1EF-B127692F627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_DLL|Win32 = Debug_DLL|Win32
+		Release_DLL|Win32 = Release_DLL|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C0E39F-BEDC-4D7B-A1EF-B127692F627E}.Debug_DLL|Win32.ActiveCfg = Debug_DLL|Win32
+		{31C0E39F-BEDC-4D7B-A1EF-B127692F627E}.Debug_DLL|Win32.Build.0 = Debug_DLL|Win32
+		{31C0E39F-BEDC-4D7B-A1EF-B127692F627E}.Release_DLL|Win32.ActiveCfg = Release_DLL|Win32
+		{31C0E39F-BEDC-4D7B-A1EF-B127692F627E}.Release_DLL|Win32.Build.0 = Release_DLL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

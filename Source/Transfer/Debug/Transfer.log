@@ -1,0 +1,71 @@
+﻿Сборка начата 10/31/2014 12:38:44 PM.
+     1>Проект "C:\RML\Source\Transfer\Transfer.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug/Transfer.pch" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /Zc:forScope StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug/Transfer.pch" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /Zc:forScope EngAdverbs.cpp EngAlg_1.cpp EngAlg_2.cpp EngAlg_3.cpp EngAlg_4.cpp EngAlg_5.cpp EngArticle.cpp EngAtomic.cpp EngBinaryTranslate.cpp EngEquivs.cpp EngHelper.cpp EngInterp.cpp EngNodeCreate.cpp EngPrimitives.cpp EngTerminTranslate.cpp EngTimeNodeTranslate.cpp TranseClause.cpp TranslateToEnglish.cpp TransPrepNoun.cpp TransRels.cpp TransRules.cpp TransTense.cpp EngNoun.cpp EngPrep.cpp EngSynthes.cpp EngVerbTense.cpp NodeHelper.cpp
+         EngAdverbs.cpp
+         EngAlg_1.cpp
+         EngAlg_2.cpp
+         EngAlg_3.cpp
+         EngAlg_4.cpp
+         EngAlg_5.cpp
+         EngArticle.cpp
+         EngAtomic.cpp
+         EngBinaryTranslate.cpp
+         EngEquivs.cpp
+         EngHelper.cpp
+         EngInterp.cpp
+         EngNodeCreate.cpp
+         EngPrimitives.cpp
+         EngTerminTranslate.cpp
+         EngTimeNodeTranslate.cpp
+         TranseClause.cpp
+         TranslateToEnglish.cpp
+         TransPrepNoun.cpp
+         TransRels.cpp
+         Создание кода...
+         Компиляция...
+         TransRules.cpp
+         TransTense.cpp
+         EngNoun.cpp
+         EngPrep.cpp
+         EngSynthes.cpp
+         EngVerbTense.cpp
+         NodeHelper.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Debug\Transfer.lib" /NOLOGO .\Debug/StdAfx.obj
+         .\Debug/EngAdverbs.obj
+         .\Debug/EngAlg_1.obj
+         .\Debug/EngAlg_2.obj
+         .\Debug/EngAlg_3.obj
+         .\Debug/EngAlg_4.obj
+         .\Debug/EngAlg_5.obj
+         .\Debug/EngArticle.obj
+         .\Debug/EngAtomic.obj
+         .\Debug/EngBinaryTranslate.obj
+         .\Debug/EngEquivs.obj
+         .\Debug/EngHelper.obj
+         .\Debug/EngInterp.obj
+         .\Debug/EngNodeCreate.obj
+         .\Debug/EngPrimitives.obj
+         .\Debug/EngTerminTranslate.obj
+         .\Debug/EngTimeNodeTranslate.obj
+         .\Debug/TranseClause.obj
+         .\Debug/TranslateToEnglish.obj
+         .\Debug/TransPrepNoun.obj
+         .\Debug/TransRels.obj
+         .\Debug/TransRules.obj
+         .\Debug/TransTense.obj
+         .\Debug/EngNoun.obj
+         .\Debug/EngPrep.obj
+         .\Debug/EngSynthes.obj
+         .\Debug/EngVerbTense.obj
+         .\Debug/NodeHelper.obj
+         Transfer.vcxproj -> C:\RML\Source\Transfer\.\Debug\Transfer.lib
+     1>Сборка проекта "C:\RML\Source\Transfer\Transfer.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:41.92

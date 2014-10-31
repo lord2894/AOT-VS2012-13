@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{2af8e41e-09c2-4b7b-8279-7c6d1542f494}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COM">
+      <UniqueIdentifier>{c946a2d5-f9f9-4ef6-9f9f-adc695c66382}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\utilit.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ComSemNode.h">
+      <Filter>COM</Filter>
+    </ClInclude>
+    <ClInclude Include="ComSemRelation.h">
+      <Filter>COM</Filter>
+    </ClInclude>
+    <ClInclude Include="ComSemWord.h">
+      <Filter>COM</Filter>
+    </ClInclude>
+    <ClInclude Include="SemStructure.h">
+      <Filter>COM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RossDev\SyntaxColorizer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\graphan\RMLLicense.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="seman.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\utilit.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="ComSemNode.cpp">
+      <Filter>COM</Filter>
+    </ClCompile>
+    <ClCompile Include="ComSemRelation.cpp">
+      <Filter>COM</Filter>
+    </ClCompile>
+    <ClCompile Include="ComSemWord.cpp">
+      <Filter>COM</Filter>
+    </ClCompile>
+    <ClCompile Include="SemStructure.cpp">
+      <Filter>COM</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="seman.def">
+      <Filter>Common</Filter>
+    </None>
+    <None Include="ComSemNode.rgs">
+      <Filter>COM</Filter>
+    </None>
+    <None Include="ComSemRelation.rgs">
+      <Filter>COM</Filter>
+    </None>
+    <None Include="ComSemWord.rgs">
+      <Filter>COM</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="seman.rc">
+      <Filter>Common</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="seman.idl">
+      <Filter>COM</Filter>
+    </Midl>
+  </ItemGroup>
+</Project>

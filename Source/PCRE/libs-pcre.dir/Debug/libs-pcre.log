@@ -1,0 +1,59 @@
+﻿Сборка начата 9/24/2014 6:54:59 PM.
+     1>Проект "C:\RML\Source\PCRE\libs-pcre.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _MBCS /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_WARNINGS /D _USE_MATH_DEFINES /D _WIN32_WINNT=0x0501 /D _DEBUG /D SSE_ENABLED=1 /D SSE2_ENABLED=1 /D HAVE_CONFIG_H /D USE_INTERNAL_STL /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libs-pcre.dir\Debug\\" /Fd"C:\trunk\build\bin\Debug/libs-pcre.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 /bigobj /FD /FC /c pcre_chartables.cpp pcre_compile.cpp pcre_config.cpp pcre_dfa_exec.cpp pcre_exec.cpp pcre_fullinfo.cpp pcre_get.cpp pcre_globals.cpp pcre_info.cpp pcre_maketables.cpp pcre_newline.cpp pcre_ord2utf8.cpp pcre_refcount.cpp pcre_study.cpp pcre_tables.cpp pcre_try_flipped.cpp pcre_ucp_searchfuncs.cpp pcre_valid_utf8.cpp pcre_version.cpp pcre_xclass.cpp pcreposix.cpp pcre_rml.cpp
+         pcre_chartables.cpp
+         pcre_compile.cpp
+         pcre_config.cpp
+         pcre_dfa_exec.cpp
+         pcre_exec.cpp
+         pcre_fullinfo.cpp
+         pcre_get.cpp
+         pcre_globals.cpp
+         pcre_info.cpp
+         pcre_maketables.cpp
+         pcre_newline.cpp
+         pcre_ord2utf8.cpp
+         pcre_refcount.cpp
+         pcre_study.cpp
+         pcre_tables.cpp
+         pcre_try_flipped.cpp
+         pcre_ucp_searchfuncs.cpp
+         pcre_valid_utf8.cpp
+         pcre_version.cpp
+         pcre_xclass.cpp
+         Создание кода...
+         Компиляция...
+         pcreposix.cpp
+         pcre_rml.cpp
+         Создание кода...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1354,5): warning MSB8012: TargetPath(C:\RML\Source\PCRE\Debug\libs-pcre.lib) does not match the Library's OutputFile property value (C:\trunk\build\bin\Debug\libs-pcre.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\trunk\build\bin\Debug\libs-pcre.lib" /NOLOGO "libs-pcre.dir\Debug\pcre_chartables.obj"
+         "libs-pcre.dir\Debug\pcre_compile.obj"
+         "libs-pcre.dir\Debug\pcre_config.obj"
+         "libs-pcre.dir\Debug\pcre_dfa_exec.obj"
+         "libs-pcre.dir\Debug\pcre_exec.obj"
+         "libs-pcre.dir\Debug\pcre_fullinfo.obj"
+         "libs-pcre.dir\Debug\pcre_get.obj"
+         "libs-pcre.dir\Debug\pcre_globals.obj"
+         "libs-pcre.dir\Debug\pcre_info.obj"
+         "libs-pcre.dir\Debug\pcre_maketables.obj"
+         "libs-pcre.dir\Debug\pcre_newline.obj"
+         "libs-pcre.dir\Debug\pcre_ord2utf8.obj"
+         "libs-pcre.dir\Debug\pcre_refcount.obj"
+         "libs-pcre.dir\Debug\pcre_study.obj"
+         "libs-pcre.dir\Debug\pcre_tables.obj"
+         "libs-pcre.dir\Debug\pcre_try_flipped.obj"
+         "libs-pcre.dir\Debug\pcre_ucp_searchfuncs.obj"
+         "libs-pcre.dir\Debug\pcre_valid_utf8.obj"
+         "libs-pcre.dir\Debug\pcre_version.obj"
+         "libs-pcre.dir\Debug\pcre_xclass.obj"
+         "libs-pcre.dir\Debug\pcreposix.obj"
+         "libs-pcre.dir\Debug\pcre_rml.obj"
+         libs-pcre.vcxproj -> C:\RML\Source\PCRE\Debug\libs-pcre.lib
+     1>Сборка проекта "C:\RML\Source\PCRE\libs-pcre.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.01

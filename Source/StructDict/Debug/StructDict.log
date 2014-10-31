@@ -1,0 +1,75 @@
+﻿Сборка начата 10/31/2014 12:28:21 PM.
+     1>Проект "C:\RML\Source\StructDict\StructDict.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>Midl:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\midl.exe /W1 /nologo /char signed /env win32 /Oicf /h "StructDict.h" /iid "StructDict_i.c" /tlb ".\StructDict.tlb" StructDict.idl 
+         Processing .\StructDict.idl
+         StructDict.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+         ocidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+         oleidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+         servprov.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+         urlmon.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+         msxml.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+         oaidl.acf
+         Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+         ocidl.acf
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdPch.h" /Fp".\Debug/StructDict.pch" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdPch.cpp
+         StdPch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdPch.h" /Fp".\Debug/StructDict.pch" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComDictionary.cpp ComDomen.cpp ComField.cpp ComSignat.cpp ComTempArticle.cpp ComTextField.cpp StructDict.cpp
+         ComDictionary.cpp
+         ComDomen.cpp
+         ComField.cpp
+         ComSignat.cpp
+         ComTempArticle.cpp
+         ComTextField.cpp
+         StructDict.cpp
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\common\utilit.cpp
+         utilit.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0710 /l"0x0419" /IDebug\ /nologo /fo"Debug\StructDict.res" StructDict.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/StructDict.dll" /INCREMENTAL:NO /NOLOGO odbc32.lib odbccp32.lib Advapi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\StructDict.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/StructDict.pdb" /MAP:".\Debug/StructDict.map" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/StructDict.lib" /MACHINE:X86 /SAFESEH /MACHINE:I386 /DLL Debug\StructDict.res
+         .\Debug/ComDictionary.obj
+         .\Debug/ComDomen.obj
+         .\Debug/ComField.obj
+         .\Debug/ComSignat.obj
+         .\Debug/ComTempArticle.obj
+         .\Debug/ComTextField.obj
+         .\Debug/StdPch.obj
+         .\Debug/StructDict.obj
+         .\Debug/utilit.obj
+         C:\RML\Source\StructDictLib\Debug\StructDictLib.lib
+     1>ComDictionary.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+            Создается библиотека .\Debug/StructDict.lib и объект .\Debug/StructDict.exp
+         StructDict.vcxproj -> C:\RML\Source\StructDict\Debug\StructDict.dll
+       CustomBuildStep:
+         regsvr32 /s /c "C:\RML\Source\StructDict\Debug\StructDict.dll"
+         echo regsvr32 exec. time > "Debug\regsvr32.trg"
+         
+         :VCEnd
+     1>Сборка проекта "C:\RML\Source\StructDict\StructDict.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.13

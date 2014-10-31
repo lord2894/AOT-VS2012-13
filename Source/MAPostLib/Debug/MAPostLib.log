@@ -1,0 +1,28 @@
+﻿Сборка начата 10/31/2014 12:38:09 PM.
+     1>Проект "C:\RML\Source\MAPostLib\MAPostLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D USE_TRIGRAM_LEMMATIZER /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\common\AncodePattern.cpp Fio.cpp ..\common\Homonym.cpp ..\common\LemWord.cpp MAPostInit.cpp MAPostMain.cpp PostLemWord.cpp ..\common\rus_numerals.cpp
+         AncodePattern.cpp
+         Fio.cpp
+         Homonym.cpp
+         LemWord.cpp
+         MAPostInit.cpp
+         MAPostMain.cpp
+         PostLemWord.cpp
+         rus_numerals.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\Debug\MAPostLib.lib" /NOLOGO .\Debug/AncodePattern.obj
+         .\Debug/Fio.obj
+         .\Debug/Homonym.obj
+         .\Debug/LemWord.obj
+         .\Debug/MAPostInit.obj
+         .\Debug/MAPostMain.obj
+         .\Debug/PostLemWord.obj
+         .\Debug/rus_numerals.obj
+         MAPostLib.vcxproj -> C:\RML\Source\MAPostLib\Debug\MAPostLib.lib
+     1>Сборка проекта "C:\RML\Source\MAPostLib\MAPostLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:34.12
